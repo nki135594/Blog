@@ -1,0 +1,53 @@
+.navigation {
+    position: sticky;
+    top: 0;
+    left: 0;
+    background: rgb(185, 185, 185);
+}
+
+.navigation ul li {
+    padding: 0.5em;
+    background-color: rgb(222, 217, 255);
+}
+
+.navigation ul li a:hover {
+    background: rgb(89, 89, 199);
+    color: yellow;
+}
+.header {
+    position: sticky;
+    top: 0;
+    left: 0;
+    background: rgb(222, 217, 255);
+    font-size: 4em;
+}
+
+.links {
+    margin-right: 20px;
+}
+
+.posts {
+    background-color: lightcyan;
+}
+
+.titles {
+    font-size: 1.7em;
+    color: black;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+}
+
+.texts {
+    font-size: 1em;
+    color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.titles2 {
+    font-size: 1.7em;
+    color: black;
+}
+
+.texts2 {
+    font-size: 1em;
+    color: green;
+}

@@ -1,0 +1,7 @@
+.header {
+    position: sticky;
+    top: 0;
+    left: 0;
+    background: rgb(222, 217, 255);
+    font-size: 2em;
+}
